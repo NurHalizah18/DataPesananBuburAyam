@@ -1,0 +1,22 @@
+.container{
+    width: 100%;
+    margin-top: 2%;
+    box-shadow: 0 3px 5px;
+    padding: 2%;
+}
+
+h3{
+    font-family: Cheeky Rabbit;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+h3.text-center{
+    margin-top: -20px;
+}
+
+table{
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+}
+
