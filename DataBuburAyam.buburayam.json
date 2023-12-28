@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "658c1bc39f48ace65b022e59"
+  },
+  "no": "1",
+  "Nama_Pesanan": "nanda",
+  "Kategori": "pedas",
+  "Keterangan_Makan": "Dibungkus",
+  "Jumlah_Pesanan": "2",
+  "Total_Harga": 10000,
+  "Metode_Bayar": "Debit"
+},
+{
+  "_id": {
+    "$oid": "658cf9a915f8b677db087612"
+  },
+  "no": "2",
+  "Nama_Pesanan": "nur halizah",
+  "Kategori": "Tidak Pedas",
+  "Keterangan_Makan": "Dibungkus",
+  "Jumlah_Pesanan": "1",
+  "Total_Harga": 5000,
+  "Metode_Bayar": "Cash"
+}]
